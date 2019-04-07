@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="Black3">#202020</color>
+    <color name="Gunmetal">#525b60</color>
+    <color name="Coolgrey">#bababb</color>
+    <color name="ButterScotch">#feb935</color>
+    <color name="Blueberry">#482d7e</color>
+    <color name="Sunflower">#ffc50d</color>
+    <color name="whitetree">#F8F8F8</color>
+    <color name="sunyellow">#ffe41e</color>
+    <color name="Lavenderblue">#8084f6</color>
+    <color name="WarmBlue">#3e43e9</color>
+    <color name="Pupleishblue">#494dea </color>
+
+</resources>
